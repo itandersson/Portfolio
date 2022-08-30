@@ -5,9 +5,9 @@ services:
     container_name: portfolio
     build:
       dockerfile: Dockerfile
-      context: ./frontend
+      context: ./React-portfolio
     ports:
       - "3000:3000"
     volumes:
-      - ./frontend:/app
+      - ./React-portfolio:/app
     command: npm start
