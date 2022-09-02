@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Joakim Andersson",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "Hej jag är en aspirerande fullstack-utvecklare. Började studera IT sent men har sedan tonåren varit intresserad av att pilla med datorer. Mina tre starkaste sidor: Självgående, Logiskt tänkande, Högmoral.",
+    "roleDescription": "Hej, jag är en aspirerande fullstack-utvecklare. Började studera IT sent men har sedan tonåren varit intresserad av att pilla med datorer. Mina tre starkaste sidor: Självgående, Logiskt tänkande, Högmoral.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,8 +21,9 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"Jag studerar webbutveckling och kan rätt mycket om datorer. Är redo för juniora uppdrag. Jobbar dock också gärna med fysiskt tunga arbeten då det är bra för knoppen och kroppen. Jag är en datorkunnig och intresserad person som trivs med att styra och driva eget arbete framåt. Samarbetar bra med kollegor. Föredrar att arbeta i mindre team mot gemensamma mål. Började arbeta som paketerare tidigt i tonåren och de äldre gubbarna på bruket lärde mig snabbt att visa arbetsmoral och vanan att alltid komma i tid till jobbet varje dag.",
+    "address":"Skåne",
+    "myWebsite":"https://github.com/itandersson",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
