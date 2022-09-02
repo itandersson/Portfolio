@@ -27,46 +27,46 @@ let resumeData = {
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Lexicon Yrkesutbildningar Malmö",
+        "specialization":"IT påbyggnad - programmerare",
+        "MonthOfPassing":"November",
+        "YearOfPassing":"2022",
+        "Achievements":"C# och nodejs"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Luleå Tekniska Universitet",
+        "specialization":"Systemvetenskap",
+        "MonthOfPassing":"Oktober",
+        "YearOfPassing":"2016",
+        "Achievements":"SOA, Java och PHP "
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Handelsanställd",
+        "specialization":"Öppna Hjärtat, Ystad",
+        "MonthOfLeaving":"Augusti",
+        "YearOfLeaving":"2021",
+        "Achievements":"Kassatjänst, transport av möbler och lager"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Fastighetsskötare",
+        "specialization":"Åfek, Sjöbo",
+        "MonthOfLeaving":"November",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":" Trädgårdsarbete, gräsklippning och städning"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Juniora utvecklare",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"DevOps"
       },
       {
-        "skillname":"CSS"
+        "skillname":"BackEnd"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"FrontEnd"
       }
     ],
     "portfolio":[
