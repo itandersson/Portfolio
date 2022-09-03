@@ -27,7 +27,7 @@ let resumeData = {
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"Lexicon Yrkesutbildningar Malmö",
+        "UniversityName":"Lexicon Yrkesutbildningar Malmö",
         "specialization":"IT påbyggnad - programmerare",
         "MonthOfPassing":"November",
         "YearOfPassing":"2022",
