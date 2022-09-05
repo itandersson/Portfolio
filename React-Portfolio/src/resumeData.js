@@ -71,24 +71,19 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Portfolio",
+        "description":"The portfolio you are currently viewing",
+        "imgurl":"images/portfolio/ommig.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Asset Tracking",
+        "description":"Asset Tracking is a simple application written in C#.",  
+        "imgurl":"images/portfolio/Asset_Tracking.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"ToDoly",
+        "description":"Simple todo list application written in C#",
+        "imgurl":"images/portfolio/ToDoLy.png"
       }
     ],
     "testimonials":[
