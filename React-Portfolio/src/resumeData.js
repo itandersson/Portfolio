@@ -73,17 +73,20 @@ let resumeData = {
       {
         "name":"Portfolio",
         "description":"The portfolio you are currently viewing",
-        "imgurl":"images/portfolio/ommig.png"
+        "imgurl":"images/portfolio/ommig.png",
+        "link":"https://github.com/itandersson/Portfolio/"
       },
       {
         "name":"Asset Tracking",
         "description":"Asset Tracking is a simple application written in C#.",  
-        "imgurl":"images/portfolio/Asset_Tracking.png"
+        "imgurl":"images/portfolio/Asset_Tracking.png",
+        "link":"https://github.com/itandersson/Asset-Tracking/"
       },
       {
         "name":"ToDoly",
         "description":"Simple todo list application written in C#",
-        "imgurl":"images/portfolio/ToDoLy.png"
+        "imgurl":"images/portfolio/ToDoLy.png",
+        "link":"https://github.com/itandersson/ToDoLy/"
       }
     ],
     "testimonials":[
